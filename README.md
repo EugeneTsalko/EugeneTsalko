@@ -15,13 +15,22 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=pink)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+[![Codewars](https://www.codewars.com/users/EugeneTsalko/badges/micro)](https://www.codewars.com/users/EugeneTsalko)
 <!---
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -31,6 +40,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 -->
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -42,6 +53,14 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eugenetsalko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### :computer: Some Projects
+- [Kanban Task Manager](https://kanban-app-rsschool.netlify.app/) [**repo**](https://github.com/EugeneTsalko/project-management-app)
+- [English learning platform RSlang](https://rslang-team71.netlify.app/) [**repo**](https://github.com/EugeneTsalko/rslang)
+- [Virtual Keyboard](https://eugenetsalko.github.io/virtual-keyboard/src/) [**repo**](https://github.com/EugeneTsalko/virtual-keyboard)
+- [Tic-tac-toe Game](https://eugenetsalko.github.io/tic-tac-toe/) [**repo**](https://github.com/EugeneTsalko/tic-tac-toe)
+- [Photographers Portfolio](https://eugenetsalko.github.io/portfolio/portfolio/) [**repo**](https://github.com/EugeneTsalko/portfolio)
+- [Pseudo Webpack **Node.js**](https://github.com/EugeneTsalko/HTML-builder)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
